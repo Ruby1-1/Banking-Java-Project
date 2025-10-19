@@ -1,18 +1,12 @@
-## Getting Started
+## Java Banking Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is an expiremental Java banking Project for my first year CC12 Introduction to Programming Class
 
-## Folder Structure
+## How to run
 
-The workspace contains two folders by default, where:
+Run the GASTO.java inside src\CC12\
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Bugs
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+idk, quite a few im guessing, there are instances where it literally js doesn't show the gui, you'd have to rerun it.
+Its an expirement for the use of GUI's in java, I js put a picture behind the initial GUI :>
